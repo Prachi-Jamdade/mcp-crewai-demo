@@ -7,7 +7,6 @@ This project demonstrates how to connect to an MCP server using the Streamable H
 1. **Clone the repository and navigate to the project folder:**
    ```sh
    git clone <repo-url>
-   cd mcp-demo
    ```
 
 2. **Install dependencies:**
