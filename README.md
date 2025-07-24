@@ -87,10 +87,12 @@ http_crew = Crew(
 
 result = http_crew.kickoff()
 ```
+## Output
+
+![Agent Output](output.png)
 
 ## Summary
 
-- Connects to MCP server via Streamable HTTP Transport.
+- Connects to MCP server via Streamable HTTP Transport using CrewAI.
 - Discovers and uses MCP tools.
 - Agent performs tasks by calling MCP tools with required arguments.
-- Results are printed to the console.
